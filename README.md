@@ -1,0 +1,3 @@
+# proje
+
+bu deneme dir
